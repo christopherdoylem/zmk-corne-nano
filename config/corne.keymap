@@ -1,4 +1,5 @@
-// corne -- all content lives in keymap_core.dtsi, shared by every board.
+// corne-nano -- a corne on nice!nano v2 controllers rather than Mikoto
+// All content lives in keymap_core.dtsi, shared by every board.
 #define HAS_GAMING
 #include "layout_corne.dtsi"
 #include "keymap_core.dtsi"
